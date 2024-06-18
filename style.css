@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(20, 20, 20);
+  color: white;
+}
+
+/* Temp Code */
+
+h1, span {
+  color: green;
+}
+
+h1, p {
+  text-align: center;
+}
